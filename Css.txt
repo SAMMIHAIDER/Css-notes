@@ -1,0 +1,26 @@
+
+Css:-
+       stand for ("Cascading style sheet") and using this you can add style in html web page 
+
+2> three way you can add style in html web page 
+                |
+            internal ("using style tag into html head tag")
+            inline   ("using style tag into any tag such as <p style="">")
+            external ("you make another file and link in html web page and file name is (.Css) using last")
+
+ Selector:-
+            three type of selector
+1> Class name 
+2> id name
+3> tag name      
+             you can select a tag for styling web page in three way
+    example:-
+             <p Class="button"></p>  
+             <p id="button"></p>  
+              h1{} 
+
+
+
+
+
+    
